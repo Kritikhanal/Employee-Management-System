@@ -1,4 +1,4 @@
-database_name: bethanysPieShop8854,
+database_name: EmployeeManagementSystem,
 dotnet build ,
 dotnet ef database update,
 dotnet run,
